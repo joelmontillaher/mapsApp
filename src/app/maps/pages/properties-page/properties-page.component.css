@@ -1,0 +1,19 @@
+
+.card-row {
+  margin-right: 15px;
+}
+
+.card-container {
+  display: flex;
+  justify-content: center;
+}
+
+.custom-card {
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+}
+
+.card {
+  height: 100%;
+}
